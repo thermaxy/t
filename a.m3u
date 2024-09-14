@@ -247,3 +247,55 @@ http://tv.pure-onetv.com:25443/live/Emile841/1234567890/151432.ts
 http://tv.pure-onetv.com:25443/live/Emile841/1234567890/151434.ts
 #EXTINF:-1 tvg-id="" tvg-name="|.AR.| Al Ons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Al-ons.tv.png" group-title="ARABIC MAROC",|.AR.| Al Ons
 http://tv.pure-onetv.com:25443/live/Emile841/1234567890/151435.ts
+#EXTINF:0 CUID="1004" tvg-name="Mor: Al Aoula" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Morocco ⭐",Mor: Al Aoula
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/181
+#EXTINF:0 CUID="1005" tvg-name="Mor: Laayoune TV HD" tvg-logo="http://tv.asc.vg/laayoune.mor.png" group-title="Morocco ⭐",Mor: Laayoune TV HD
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/171123
+#EXTINF:0 CUID="1006" tvg-name="Mor: 2M Maroc" tvg-logo="http://tv.asc.vg/2m.mor.png" group-title="Morocco ⭐",Mor: 2M Maroc
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/182
+#EXTINF:0 CUID="1007" tvg-name="Mor: Al Maghribia Al Ekhbaria" tvg-logo="http://tv.asc.vg/al.maghribia.5.mor.png" group-title="Morocco ⭐",Mor: Al Maghribia Al Ekhbaria
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/183
+#EXTINF:0 CUID="1008" tvg-name="Mor: Athaqafia (4)" tvg-logo="http://tv.asc.vg/athaqafia.4.mor.png" group-title="Morocco ⭐",Mor: Athaqafia (4)
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/34673
+#EXTINF:0 CUID="1009" tvg-name="Mor: Assadissa 6" tvg-logo="http://tv.asc.vg/assadissa.6.mor.png" group-title="Morocco ⭐",Mor: Assadissa 6
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/474
+#EXTINF:0 CUID="1010" tvg-name="Mor: Assabia 7" tvg-logo="http://tv.asc.vg/assabia.7.mor.png" group-title="Morocco ⭐",Mor: Assabia 7
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/184472
+#EXTINF:0 CUID="1011" tvg-name="Mor: Tamazight" tvg-logo="http://tv.asc.vg/tamazight.8.mor.png" group-title="Morocco ⭐",Mor: Tamazight
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/7030
+#EXTINF:0 CUID="1012" tvg-name="Mor: TV5 MONDE MAGHREB ORIENT HD" tvg-logo="http://tv.asc.vg/tv5.monde.maghreb.orient.mor.png" group-title="Morocco ⭐",Mor: TV5 MONDE MAGHREB ORIENT HD
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/259228
+#EXTINF:0 CUID="1013" tvg-name="Mor: Tele maroc" tvg-logo="http://tv.asc.vg/tele.maroc.mor.png" group-title="Morocco ⭐",Mor: Tele maroc
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/7860
+#EXTINF:0 CUID="1014" tvg-name="Mor: M24 MAROC" tvg-logo="http://tv.asc.vg/m.24.mor.png" group-title="Morocco ⭐",Mor: M24 MAROC
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/111813
+#EXTINF:0 CUID="1015" tvg-name="Mor: Medi 1 TV Arabic" tvg-logo="http://tv.asc.vg/medi.1.arabic.mor.png" group-title="Morocco ⭐",Mor: Medi 1 TV Arabic
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/478
+#EXTINF:0 CUID="1016" tvg-name="Mor: Medi1 TV Maghreb HD" tvg-logo="http://tv.asc.vg/medi.1.maghreb.mor.png" group-title="Morocco ⭐",Mor: Medi1 TV Maghreb HD
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/243558
+#EXTINF:0 CUID="1017" tvg-name="Mor: Medi1 TV Afrique  HD" tvg-logo="http://tv.asc.vg/medi.1.afrique.mor.png" group-title="Morocco ⭐",Mor: Medi1 TV Afrique  HD
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/243557
+#EXTINF:0 CUID="1018" tvg-name="Mor: Chada TV" tvg-logo="http://tv.asc.vg/chada.mor.png" group-title="Morocco ⭐",Mor: Chada TV
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/23534
+#EXTINF:0 CUID="1019" tvg-name="Mor: Al Ons TV" tvg-logo="http://tv.asc.vg/al.ons.mor.png" group-title="Morocco ⭐",Mor: Al Ons TV
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/87736
+#EXTINF:0 CUID="1020" tvg-name="Mor: Al magharibia TV" tvg-logo="http://tv.asc.vg/al.magharibia.mor.png" group-title="Morocco ⭐",Mor: Al magharibia TV
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/184473
+#EXTINF:0 CUID="1021" tvg-name="Mor: Al Aoula Layoune Tnt" tvg-logo="http://tv.asc.vg/laayoune.mor.png" group-title="Morocco ⭐",Mor: Al Aoula Layoune Tnt
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/362142
+#EXTINF:0 CUID="1022" tvg-name="Mor: Arrabiaa Tnt" tvg-logo="http://tv.asc.vg/athaqafia.4.mor.png" group-title="Morocco ⭐",Mor: Arrabiaa Tnt
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/362141
+#EXTINF:0 CUID="1023" tvg-name="Mor: Tamazight Tnt" tvg-logo="http://tv.asc.vg/tamazight.8.mor.png" group-title="Morocco ⭐",Mor: Tamazight Tnt
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/362140
+#EXTINF:0 CUID="1024" tvg-name="Mor: Assadissa Tnt" tvg-logo="http://tv.asc.vg/assadissa.6.mor.png" group-title="Morocco ⭐",Mor: Assadissa Tnt
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/362139
+#EXTINF:0 CUID="1025" tvg-name="Mor: ARRIADIA Tnt" tvg-logo="http://tv.asc.vg/arriyadia.3.mor.png" group-title="Morocco ⭐",Mor: ARRIADIA Tnt
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/362138
+#EXTINF:0 CUID="1026" tvg-name="Mor: Al Maghribia Tnt" tvg-logo="http://tv.asc.vg/al.maghribia.5.mor.png" group-title="Morocco ⭐",Mor: Al Maghribia Tnt
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/362137
+#EXTINF:0 CUID="1027" tvg-name="Mor: MEDI 1 Maghreb Tnt" tvg-logo="http://tv.asc.vg/medi.1.maghreb.mor.png" group-title="Morocco ⭐",Mor: MEDI 1 Maghreb Tnt
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/362136
+#EXTINF:0 CUID="1028" tvg-name="Mor: Al Aoula HD Tnt" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Morocco ⭐",Mor: Al Aoula HD Tnt
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/362135
+#EXTINF:0 CUID="1029" tvg-name="Mor: 2M Tnt" tvg-logo="http://tv.asc.vg/2m.mor.png" group-title="Morocco ⭐",Mor: 2M Tnt
+http://s1.tesla2tv.com:8080/mustafaxalazzawi2/da453677/362134
