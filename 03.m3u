@@ -43,8 +43,8 @@ http://pro.ipcover.lol:8080/live/Karl817373/816392643/431288.m3u8
 https://wo.cma.footballii.ir/hls2/b1_src.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MA : Bein1 4k" tvg-logo="" group-title="|AR| MOROCCO ✦ المغرب",MA : Bein2 4k
 https://wo.cma.footballii.ir/hls2/b2_src.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
-#EXTVLCOPT:http-referrer=https://2m.ma
+#EXTINF:-1 tvg-id="2MMonde.ma" http-referrer="https://www.radio2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
+#EXTVLCOPT:http-referrer=https://www.radio2m.ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
