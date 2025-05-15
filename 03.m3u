@@ -39,10 +39,10 @@ http://pro.ipcover.lol:8080/live/Karl817373/816392643/431286.m3u8
 http://pro.ipcover.lol:8080/live/Karl817373/816392643/431287.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MA : Bein6 HD" tvg-logo="" group-title="|AR| MOROCCO ✦ المغرب",MA : Bein6
 http://pro.ipcover.lol:8080/live/Karl817373/816392643/431288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MA : Bein1 4k" tvg-logo="" group-title="|AR| MOROCCO ✦ المغرب",MA : Bein1 4kk
-http://geti2020.com:8080/live/faouzixstk/ru56762186753/237740.ts
 #EXTINF:-1 tvg-id="" tvg-name="MA : Bein1 4k" tvg-logo="" group-title="|AR| MOROCCO ✦ المغرب",MA : Bein1 4k
-http://joywatch.tv:8080/jwxfaouzistk/sh69280920/54
+https://wo.cma.footballii.ir/hls2/b1_src.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MA : Bein1 4k" tvg-logo="" group-title="|AR| MOROCCO ✦ المغرب",MA : Bein2 4k
+https://wo.cma.footballii.ir/hls2/b2_src.m3u8
 
 
 
